@@ -6,10 +6,9 @@ theme: jekyll-theme-chirpy
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: es
+timezone: America/Bogota
 
-# Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -18,12 +17,12 @@ title: Cristian Castaño # the main title
 
 tagline: Cyber Blog # it will display as the subtitle
 
-description: >- # used by seo meta and the atom feed
+description: Notas, CTFs y Certificación    # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://cristiancastanoq.github.io"
 
 github:
   username: cristiancastanoq # change to your GitHub username
